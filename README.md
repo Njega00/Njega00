@@ -56,11 +56,7 @@ My interests sit at the intersection of **Software Engineering, Cloud Computing,
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Njega00&theme=radical&no-frame=true&margin-w=15" />
-</div>
 
 ---
 
