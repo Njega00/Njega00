@@ -21,7 +21,7 @@
 
 
 
-## 📊 GitHub Stats (Colorful Theme)
+## 📊 GitHub Stats 
 
 <div align="center">
 
