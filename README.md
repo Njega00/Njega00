@@ -9,7 +9,7 @@
 
 ## 🌟My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,nextjs,css,js,aws,springboot,php,typescript,react,nodejs,azure,mongodb,postgresql)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,nextjs,css,js,aws,spring,php,typescript,react,nodejs,azure,mongodb,postgresql)](#)
 
 
 
